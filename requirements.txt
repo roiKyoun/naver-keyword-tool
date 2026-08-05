@@ -1,5 +1,5 @@
-streamlit
-requests
-pandas
-tqdm
-beautifulsoup4
+   streamlit==1.50.0
+   requests
+   pandas
+   tqdm
+   beautifulsoup4
